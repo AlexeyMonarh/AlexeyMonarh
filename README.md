@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img color="white" height="32" width="32" src="https://simpleicons.org/icons/react.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/sass.svg"/>
+<img color="white" height="32" width="32" src="https://simpleicons.org/icons/react.svg"/>, <img height="32" width="32" src="https://simpleicons.org/icons/sass.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/css3.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/github.svg"/>
