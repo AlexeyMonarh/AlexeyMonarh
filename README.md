@@ -12,29 +12,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<img color="white" height="32" width="32" src="https://simpleicons.org/icons/react.svg"/> <img height="32" width="32" src="https://simpleicons.org/icons/sass.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/html5.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/css3.svg"/>
+ 
+<img height="32" width="32" src="https://simpleicons.org/icons/html5.svg"/> <img height="32" width="32" src="https://simpleicons.org/icons/css3.svg"/>
+<img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/github.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/visualstudio.svg"/>
+<img height="32" width="32" src="https://simpleicons.org/icons/sass.svg"/>
+<img height="32" width="32" src="https://simpleicons.org/icons/gulp.svg"/>
+<img height="32" width="32" src="https://simpleicons.org/icons/postcss.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/bootstrap.svg"/>
+<img height="32" width="32" src="https://simpleicons.org/icons/node-dot-js.svg"/>
+<img height="32" width="32" src="https://simpleicons.org/icons/react.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/express.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/codepen.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/wordpress.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/redux.svg"/>
+<img height="32" width="32" src="https://simpleicons.org/icons/jekyll.svg"/>
+<img height="32" width="32" src="https://simpleicons.org/icons/angular.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/webpack.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/nginx.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/mongodb.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/node-dot-js.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/babel.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/postman.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/figma.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/postcss.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/jekyll.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/gulp.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/reactrouter.svg"/>
-<img height="32" width="32" src="https://simpleicons.org/icons/angular.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/slack.svg"/>
-
+<img height="32" width="32" src="https://simpleicons.org/icons/codepen.svg"/>
