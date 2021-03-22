@@ -1,5 +1,5 @@
 ## Рад приветствовать вас на своей страничке
-**AlexeyMonarh/AlexeyMonarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AlexeyMonarh/AlexeyMonarh** is a ✨ _special_ ✨
 
 Here are some ideas to get you started:
 
