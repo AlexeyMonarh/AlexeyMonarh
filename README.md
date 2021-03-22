@@ -1,7 +1,5 @@
 ## Рад приветствовать вас на своей страничке
-<img height="auto" width="20%" border-radius="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
-
-**AlexeyMonarh/AlexeyMonarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="auto" width="20%" border-radius="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>**AlexeyMonarh/AlexeyMonarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
