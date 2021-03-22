@@ -1,4 +1,4 @@
-## Рад приветствовать вас на своей страничке <img height="auto" width="50%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web.png"/>
+## Рад приветствовать вас на своей страничке<img height="auto" width="50%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web.png"/>
 
 **AlexeyMonarh/AlexeyMonarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
