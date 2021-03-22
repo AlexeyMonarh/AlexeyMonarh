@@ -1,4 +1,5 @@
-### Рад приветствовать вас на своей страничке 👋
+<img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
+# Рад приветствовать вас на своей страничке 👋
 
 **AlexeyMonarh/AlexeyMonarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,3 +38,5 @@ Here are some ideas to get you started:
 <img height="32" width="32" src="https://simpleicons.org/icons/figma.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/slack.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/codepen.svg"/>
+
+<img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
