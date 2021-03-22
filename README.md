@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  
-<img height="32" width="32" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_js_icon_161291.png"/> <img height="360" width="720" src="https://hsto.org/webt/rx/yj/mj/rxyjmjslggczslw1nh37poapww0.png"/>
+<img height="32" width="32" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_js_icon_161291.png"/> <img height="360" width="720" src="https://robottip.com/wp-content/uploads/2017/06/Web-Design-Vs-Web-Development-Feature_1290x688_KL-1.jpg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/github.svg"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/visualstudio.svg"/>
