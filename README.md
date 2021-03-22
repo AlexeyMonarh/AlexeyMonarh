@@ -1,5 +1,4 @@
 ## Рад приветствовать вас на своей страничке
-<img height="auto" width="30%" border-radius="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/><img height="auto" width="50%" border-radius="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web.png"/>
 **AlexeyMonarh/AlexeyMonarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- 
+<img height="auto" width="30%" border-radius="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
+
 <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_js_icon_161291.png"/> 
 <img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
 <img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg"/>
