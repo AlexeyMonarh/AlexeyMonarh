@@ -1,5 +1,5 @@
 ## Рад приветствовать вас на своей страничке
-<img height="auto" width="50%" border-radius="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/><img height="auto" width="50%" border-radius="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web.png"/>
+<img height="auto" width="30%" border-radius="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/><img height="auto" width="50%" border-radius="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web.png"/>
 **AlexeyMonarh/AlexeyMonarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
