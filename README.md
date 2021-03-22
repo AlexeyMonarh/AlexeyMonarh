@@ -1,4 +1,4 @@
-<img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
+<img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web.png"/>
 # Рад приветствовать вас на своей страничке 👋
 
 **AlexeyMonarh/AlexeyMonarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
