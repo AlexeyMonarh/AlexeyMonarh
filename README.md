@@ -1,5 +1,5 @@
 ## Рад приветствовать вас на своей страничке 🙂
-<img height="auto" border="1px #ffffff solid" align="left" width="30%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
+<img height="auto" border="1px #ffffff solid" align="left" width="50%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
 
 <img height="auto" align="right" width="50%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web.png"/>
 
