@@ -12,6 +12,7 @@
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&border_radius=0&width=100%&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <img height="auto" align="right" width="40%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-webs.png"/>
 ***
+# Мои скилы 
 
 <img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
 
