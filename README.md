@@ -1,7 +1,7 @@
 ## Рад приветствовать вас на своей страничке 🙂
 <img height="auto" border="1px #ffffff solid" align="left" width="25%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
 
-<img height="auto" width="50%" align="center" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-web-application-development-web-developer-web-design-87d7153e7cb79e56be3af3c4a1a55fc5.png"/>
+<img height="auto" width="50%" align="right" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-web-application-development-web-developer-web-design-87d7153e7cb79e56be3af3c4a1a55fc5.png"/>
 
 
 ## Меня зовут Алексей. Я Web-разработчик. Фрилансер
