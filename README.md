@@ -1,5 +1,5 @@
 ## Рад приветствовать вас на своей страничке
-<img height="auto" width="30%" border-radius="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
+<img height="auto" width="30%" border="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
 **Меня зовут Алексей** ✨ Frontend ✨
 Here are some ideas to get you started:
 
