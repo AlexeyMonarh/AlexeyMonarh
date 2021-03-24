@@ -4,7 +4,7 @@
 ## Меня зовут Алексей. Я Web-разработчик. Фрилансер
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexeyMonarh&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexeyMonarh&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 * 🔭 Стремлюсь к совершенству и неоспаримому мастерству в IT.
 * 🌱 I’m currently learning ...
