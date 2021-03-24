@@ -2,7 +2,7 @@
 <img height="auto" align="left" width="30%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
 
 ## Меня зовут Алексей. Я Web-разработчик. Фрилансер
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 * 🔭 Стремлюсь к совершенству и неоспаримому мастерству в IT.
