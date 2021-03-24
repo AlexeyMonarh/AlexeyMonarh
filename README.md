@@ -1,6 +1,6 @@
-## Рад приветствовать вас на своей страничке
-<img height="auto" width="30%" border="20px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
-**Меня зовут Алексей** ✨ Frontend ✨
+## Рад приветствовать вас на своей страничке 🙂
+<img height="auto" width="30%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
+### Меня зовут Алексей. Я Frontend разработчик. Стремлюсь к совершенству и неоспаримому мастерству в IT.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
