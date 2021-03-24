@@ -13,7 +13,7 @@
 <img height="auto" align="right" width="40%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-webs.png"/>
 ***
 # Скилы
-
+<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
 
 # Скилы в процессе освоенния
 ***
