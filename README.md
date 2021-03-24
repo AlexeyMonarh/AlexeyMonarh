@@ -1,12 +1,10 @@
 ## Рад приветствовать вас на своей страничке 🙂
 <img height="auto" border="1px #ffffff solid" align="left" width="25%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
 
-## Меня зовут Алексей. Я Web-разработчик. Фрилансер
 <img height="auto" align="right" width="50%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web.png"/>
 
 
-
-
+## Меня зовут Алексей. Я Web-разработчик. Фрилансер
 ##
 * 🔭 Стремлюсь к совершенству и неоспаримому мастерству в IT.
 * 🌱 I’m currently learning ...
