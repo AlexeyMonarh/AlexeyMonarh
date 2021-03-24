@@ -1,4 +1,4 @@
-# Здравствуйте 😀
+# Здравствуйте 🙂
 <img height="auto" border_radius="50%" align="left" width="25%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото.png"/>
 
 ## Меня зовут Алексей. Я Web-разработчик. Фрилансер
@@ -8,6 +8,7 @@
 * ⚡ Важнейшая цель ближайшего будущего - фреймворки JS и Python
 * 📜 История о моем пути на [Яндекс.Практикуме](https://vk.com/@yandex.praktikum-iz-taxi-v-web) 
 * * 📫 Моя почта: monarhweb@gmail.com
+* 
 ***
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&border_radius=0&width=100%&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <img height="auto" align="right" width="30%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-webs.png"/>
