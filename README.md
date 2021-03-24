@@ -13,20 +13,21 @@
 <img height="auto" align="right" width="40%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-webs.png"/>
 ***
 ## Скилы
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/html5-1175210.svg"/><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/css3-1175200.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/node-js.png"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/javascript-1174950.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/bootstrap-1175203.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/babel-1175262.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/webpack-1174982.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/git-1175220.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/react.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/vscode.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/nginx-1174926.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/mongodb.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/express.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/linux-1174928.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/html5-1175210.svg"/><img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/css3-1175200.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/node-js.png"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/javascript-1174950.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/bootstrap-1175203.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/babel-1175262.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/webpack-1174982.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/git-1175220.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/react.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/vscode.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/nginx-1174926.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/mongodb.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/express.svg"/>
+<img align="center" height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/linux-1174928.svg"/>
 
 ## Скилы в процессе освоенния
+<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/linux-1174928.svg"/>
 <img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
 
