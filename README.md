@@ -28,7 +28,7 @@
 <img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/linux-1174928.svg"/>
 
 ## Изучаю
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/angularjs-1175272.svg"/><img height="60px" width="60px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/python_9.svg"/><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/vuejs.svg"/>
+<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/angularjs-1175272.svg"/><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/python_9.svg"/><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/vuejs.svg"/>
 
 <img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
 
