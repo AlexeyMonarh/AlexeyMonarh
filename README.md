@@ -22,8 +22,9 @@
 <img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/git-1175220.svg"/>
 <img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/react.svg"/>
 <img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/vscode.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/visual-studio-1597562.svg"/>
-<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/visual-studio-1597562.svg"/>
+<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/nginx-1174926.svg"/>
+<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/mongodb.svg"/>
+<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/express.svg"/>
 
 # Скилы в процессе освоенния
 ***
