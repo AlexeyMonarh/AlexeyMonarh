@@ -32,5 +32,5 @@
 ***
 ## Мои контакты
 <img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
-<p align="center">Буду рад общению и сотрудничесту</p>
+<p align="center">Буду рад общению и сотрудничесту !!!</p>
 <hr/>
