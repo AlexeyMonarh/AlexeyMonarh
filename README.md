@@ -25,6 +25,7 @@
 <img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/nginx-1174926.svg"/>
 <img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/mongodb.svg"/>
 <img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/express.svg"/>
+<img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/linux-1174928.svg"/>
 
 # Скилы в процессе освоенния
 ***
