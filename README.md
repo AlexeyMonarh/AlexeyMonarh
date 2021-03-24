@@ -2,8 +2,8 @@
 <img height="auto" align="left" width="30%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
 
 ## Меня зовут Алексей. Я Frontend разработчик.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 * 🔭 Стремлюсь к совершенству и неоспаримому мастерству в IT.
 * 🌱 I’m currently learning ...
