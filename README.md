@@ -34,7 +34,7 @@
 <img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
 
 <p align="center">
-  <a href="https://www.instagram.com/monarh_web/"><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/instagram-1597574.svg"/></a><a href="monarhweb@gmail.com"><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/google-1597559.svg"/></a>
+  <a href="https://www.instagram.com/monarh_web/"><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/instagram-1597574.svg"/></a><a href="https://wapp.click/79818596885"><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/whatsapp-1597564.svg"/></a>
   <a href="https://tlgg.ru/Alexei_Monarh"><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/telegram-1597540.svg"/></a>
   <a href="https://join.skype.com/invite/AuDFswBO9PCD"><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/skype-1597543.svg"/></a>
   <a href="https://vk.com/id495470095"><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/vk-1597601.svg"/></a>
