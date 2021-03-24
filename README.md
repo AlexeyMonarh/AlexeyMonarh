@@ -2,8 +2,11 @@
 <img height="auto" align="left" width="30%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
 
 ## Меня зовут Алексей. Я Web-разработчик. Фрилансер
+<img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/check-mark.png"/>
+
+
+
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[! [Readme Card] (https://github-readme-stats.vercel.app/api/pin/ ? Username = anuraghazra & repo = github-readme-stats )] (https://github.com/anuraghazra/github- readme-stats)
 
 * 🔭 Стремлюсь к совершенству и неоспаримому мастерству в IT.
 * 🌱 I’m currently learning ...
