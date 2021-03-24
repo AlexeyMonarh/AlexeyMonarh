@@ -1,4 +1,4 @@
-![## Рад приветствовать вас на своей страничке 🙂](https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото.png)
+![Рад приветствовать вас на своей страничке 🙂](https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото.png)
 
 <img height="auto" width="25%" align="right" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-web-application-development-web-developer-web-design-87d7153e7cb79e56be3af3c4a1a55fc5.png"/>
 
