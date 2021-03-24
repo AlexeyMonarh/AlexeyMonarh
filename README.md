@@ -40,7 +40,7 @@
   <a href="https://vk.com/id495470095"><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/vk-1597601.svg"/></a>
 </p>
 <p align="center">
-  Буду рад общению и сотрудничесту 🤵
+  Буду рад общению и сотрудничесту 🙂
 </p>
 
 <hr/>
