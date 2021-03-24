@@ -32,4 +32,4 @@
 ***
 ## Мои контакты. Буду рад общению и сотрудничесту
 <img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
-***
+<hr/>
