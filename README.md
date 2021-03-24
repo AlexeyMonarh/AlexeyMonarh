@@ -3,9 +3,9 @@
 
 ## Меня зовут Алексей. Я Frontend разработчик.
 
-    <img src="https://picsum.photos/id/1005/600/400">
+<img src="https://picsum.photos/id/1005/600/400">
  
-
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 
 * 🔭 Стремлюсь к совершенству и неоспаримому мастерству в IT.
 * 🌱 I’m currently learning ...
