@@ -4,7 +4,7 @@
 ## Меня зовут Алексей. Я Web-разработчик. Фрилансер
 <img height="auto" align="right" width="50%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-web-application-development-web-developer-web-design-87d7153e7cb79e56be3af3c4a1a55fc5.png"/>
 
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&border_radius=0&bg_color=0,0,0,0&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&border_radius=0&bg_color=red&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 * 🔭 Стремлюсь к совершенству и неоспаримому мастерству в IT.
