@@ -1,7 +1,7 @@
 ## Рад приветствовать вас на своей страничке 🙂
 <img height="auto" align="left" width="30%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
 
-## Меня зовут Алексей. Я Frontend разработчик.
+## Меня зовут Алексей. Я Web-разработчик. Фрилансер
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
