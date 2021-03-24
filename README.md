@@ -1,8 +1,5 @@
 <img height="auto" border_radius="50%" align="left" width="25%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото.png"/>
 
-<img height="auto" width="25%" align="right" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-web-application-development-web-developer-web-design-87d7153e7cb79e56be3af3c4a1a55fc5.png"/>
-
-
 ## Меня зовут Алексей. Я Web-разработчик. Фрилансер
 * 🔭 Стремлюсь к совершенству и неоспаримому мастерству в IT.
 * 💬 Ask me about ...
