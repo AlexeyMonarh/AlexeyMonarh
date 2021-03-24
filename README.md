@@ -6,9 +6,9 @@
 * 🌍 Стал разработчиком, чтобы сделать мир лучше
 * 💻 Люблю кодить сложные штуки. Залог успшеного роста скилов
 * ⚡ Важнейшая цель ближайшего будущего - фреймворки JS и Python
+* 💼 В моих репозиториях примеры работ
 * 📜 История о моем пути на [Яндекс.Практикуме](https://vk.com/@yandex.praktikum-iz-taxi-v-web) 
-* * 📫 Моя почта: monarhweb@gmail.com
-* 
+* 📫 Моя почта: monarhweb@gmail.com
 ***
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&border_radius=0&width=100%&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <img height="auto" align="right" width="30%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-webs.png"/>
