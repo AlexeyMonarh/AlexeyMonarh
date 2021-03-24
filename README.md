@@ -2,7 +2,7 @@
 <img height="auto" align="left" width="30%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
 
 ## Меня зовут Алексей. Я Web-разработчик. Фрилансер
-<img height="auto" align="right" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/computer-network.png"/>
+<img height="auto" align="right" width="50%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/computer-network.png"/>
 
 
 
