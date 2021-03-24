@@ -1,6 +1,6 @@
 ## Рад приветствовать вас на своей страничке 🙂
-<img height="auto" border="1px #ffffff solid" align="left" width="25%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
-![screenshot of sample](<img height="auto" border="1px #ffffff solid" align="left" width="25%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>)
+
+![screenshot of sample](https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png)
 
 <img height="auto" width="25%" align="right" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-web-application-development-web-developer-web-design-87d7153e7cb79e56be3af3c4a1a55fc5.png"/>
 
@@ -19,3 +19,4 @@
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&border_radius=0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="auto" width="100%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/web-development-web-design-website.png"/>
+<img height="auto" border="1px #ffffff solid" align="left" width="25%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото .png"/>
