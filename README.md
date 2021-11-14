@@ -30,3 +30,5 @@
 ## Изучаю
 <img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/angularjs-1175272.svg"/><img height="60px" width="60px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/python_9.svg"/><img height="50px" width="50px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/vuejs.svg"/>
 ***
+## Диплом
+<img height="100%" max-width="600px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/photo_2021-11-14_23-19-26.jpg"/>
