@@ -32,3 +32,4 @@
 ***
 ## Диплом
 <img height="100%" max-width="600px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/photo_2021-11-14_23-19-26.jpg"/>
+<img height="100%" width="600px" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/photo_2021-11-14_23-19-26.jpg"/>
