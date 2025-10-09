@@ -1,5 +1,5 @@
 # Здравствуйте 🙂
-<img height="auto" border_radius="50%" align="left" width="25%" src="https://github.com/AlexeyMonarh/AlexeyMonarh/blob/main/img/Фото.png"/>
+
 
 ## Меня зовут Алексей. Я Web-разработчик. Фрилансер
 * 🔭 Стремлюсь к совершенству и неоспаримому мастерству в IT
