@@ -28,20 +28,22 @@
 ---
 
 <div align="center">
+  <h3>Технологический стек</h3>
+  
+  <p align="center">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4f98e3c6e2111eb5444795657bc52fe3c5fa2422de02c7a90b13109181fbf4ea/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74732c6a732c727573742c707974686f6e2c6e6578746a732c72656163742c7461696c77696e646373732c6578706f2c657870726573732c6d6f6e676f64622c72656469732c646f636b65722c6e67696e782c6c696e75782c676974687562616374696f6e73267065726c696e653d38">
+      <img src="https://camo.githubusercontent.com/4f98e3c6e2111eb5444795657bc52fe3c5fa2422de02c7a90b13109181fbf4ea/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74732c6a732c727573742c707974686f6e2c6e6578746a732c72656163742c7461696c77696e646373732c6578706f2c657870726573732c6d6f6e676f64622c72656469732c646f636b65722c6e67696e782c6c696e75782c676974687562616374696f6e73267065726c696e653d38" alt="Tech Stack" data-canonical-src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&amp;perline=8" style="max-width: 100%;">
+    </a>
+  </p>
 
-### Технологический стек
-
-<img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack"/>
-
-<br/>
-
-<b>Языки</b> &nbsp; TypeScript &bull; JavaScript &bull; Rust &bull; Python<br/>
-<b>Frontend</b> &nbsp; Next.js 16 &bull; React 19 &bull; Tailwind 4 &bull; Expo 55<br/>
-<b>Backend</b> &nbsp; Express &bull; MongoDB &bull; Redis 7 &bull; Socket.IO<br/>
-<b>Infra</b> &nbsp; Docker &bull; Nginx &bull; Linux &bull; GitHub Actions
-
-
+  <p>
+    <b>Языки</b> &nbsp; TypeScript • JavaScript • Rust • Python<br>
+    <b>Frontend</b> &nbsp; Next.js 16 • React 19 • Tailwind 4 • Expo 55<br>
+    <b>Backend</b> &nbsp; Express • MongoDB • Redis 7 • Socket.IO<br>
+    <b>Infra</b> &nbsp; Docker • Nginx • Linux • GitHub Actions
+  </p>
 </div>
+
 
 <div align="center">
   
