@@ -4,7 +4,7 @@
 
 <br/>
 
-<h1>Алексей Сахневич</h1>
+<h1>Алексей</h1>
 
 <p>
 <a href="mailto:monarhweb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -31,7 +31,7 @@
 
 ### Технологический стек
 
-<img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack" align="center" />
 
 <br/>
 
