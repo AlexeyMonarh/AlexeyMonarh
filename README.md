@@ -27,7 +27,7 @@
 
 ---
 
-
+<div align="center">
 
 ### Технологический стек
 
@@ -41,7 +41,7 @@
 <b>Infra</b> &nbsp; Docker &bull; Nginx &bull; Linux &bull; GitHub Actions
 
 
-
+</div>
 ---
 
 
