@@ -26,29 +26,50 @@
 </div>
 
 ---
-<div align="center">
-  <h3>Технологический стек</h3>
-  
-  <center>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://githubusercontent.com">
-      <img src="https://camo.githubusercontent.com/4f98e3c6e2111eb5444795657bc52fe3c5fa2422de02c7a90b13109181fbf4ea/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74732c6a732c727573742c707974686f6e2c6e6578746a732c72656163742c7461696c77696e646373732c6578706f2c657870726573732c6d6f6e676f64622c72656469732c646f636b65722c6e67696e782c6c696e75782c676974687562616374696f6e73267065726c696e653d38" alt="Tech Stack" data-canonical-src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&amp;perline=8" style="max-width: 100%;">
-    </a>
-  </center>
 
-  <p>
-    <b>Языки</b> &nbsp; TypeScript • JavaScript • Rust • Python<br>
-    <b>Frontend</b> &nbsp; Next.js 16 • React 19 • Tailwind 4 • Expo 55<br>
-    <b>Backend</b> &nbsp; Express • MongoDB • Redis 7 • Socket.IO<br>
-    <b>Infra</b> &nbsp; Docker • Nginx • Linux • GitHub Actions
-  </p>
+<div align="center">
+
+### Технологический стек
+
+<br/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Expo_55-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Ключевые проекты
+
 </div>
 
 <div align="center">
-  
---- 
-
-
-### Ключевые проекты
 
 <h3>Mizgir Platform</h3>
 
