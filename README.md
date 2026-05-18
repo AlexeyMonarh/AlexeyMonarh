@@ -9,7 +9,7 @@
 <p>
 <a href="mailto:monarhweb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
-<a href="https://t.me/monarh"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://t.me/Mizgir_Technologies"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=AlexeyMonarh&color=1f6feb&style=flat-square&label=views" alt="views"/>
 </p>
@@ -31,7 +31,23 @@
 
 ### Технологический стек
 
-<img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack" width="600"/>
+<img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack"/>
+
+<br/>
+
+<sub><b>Языки</b> &nbsp; TypeScript &middot; JavaScript &middot; Rust &middot; Python</sub>
+
+<br/>
+
+<sub><b>Frontend</b> &nbsp; Next.js 16 &middot; React 19 &middot; Tailwind 4 &middot; Expo 55</sub>
+
+<br/>
+
+<sub><b>Backend</b> &nbsp; Express &middot; MongoDB &middot; Redis &middot; Socket.IO</sub>
+
+<br/>
+
+<sub><b>Infra</b> &nbsp; Docker &middot; Nginx &middot; Linux &middot; GitHub Actions</sub>
 
 </div>
 
@@ -41,61 +57,64 @@
 
 ### Ключевые проекты
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
+</div>
+
+<div align="center">
 
 <h3>Mizgir Platform</h3>
-<p>
+
 <img src="https://img.shields.io/badge/PRODUCTION-238636?style=flat-square" alt="Production"/>
 <img src="https://img.shields.io/badge/MONOREPO-1f6feb?style=flat-square" alt="Monorepo"/>
 <img src="https://img.shields.io/badge/E2EE-f85149?style=flat-square" alt="E2EE"/>
-</p>
 
-<pre>
+</div>
+
+```
 Backend (9+ микросервисов)
-├── API Gateway — circuit breaker
-├── Auth — JWT + device mgmt
-├── KMS — end-to-end encryption
-├── Real-time — WebSocket
-└── ...5 more services
+├── API Gateway — circuit breaker routing
+├── Auth — JWT + refresh tokens + device management
+├── KMS — end-to-end encryption via key server
+├── Real-time — WebSocket presence & events
+├── Message — encrypted messaging
+├── Notification — multi-channel delivery
+├── Call — voice/video signaling
+├── ProtoMiz — data processing engine
+├── Kanban — task management
+└── Monitoring — observability & health
 
-Web    (Next.js 16 / React 19)
-Mobile (Expo 55 / React Native)
-10 shared @mizgir/* packages
-</pre>
+Web    → Next.js 16 + React 19 + Tailwind 4
+Mobile → Expo 55 + React Native 0.83 + NativeWind 4
+Shared → 10 @mizgir/* packages (types, api, validation, config, hooks, ui, icons, tailwind, queue)
+```
 
-<b>TypeScript 82%</b> · Express · Mongoose 9 · Redis 7<br/>
-Socket.IO · Docker · E2EE
+<div align="center">
 
-</td>
-<td width="50%" align="center" valign="top">
+**TypeScript 82%** &middot; Express &middot; Mongoose 9 &middot; Redis 7 &middot; Socket.IO &middot; Docker &middot; E2EE
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <h3>BP-Builder</h3>
-<p>
+
 <img src="https://img.shields.io/badge/IN_DEV-ffa657?style=flat-square" alt="In Development"/>
 <img src="https://img.shields.io/badge/FULLSTACK-1f6feb?style=flat-square" alt="Fullstack"/>
 <img src="https://img.shields.io/badge/ENTERPRISE-8957e5?style=flat-square" alt="Enterprise"/>
-</p>
-
-<pre>
-Платформа для бизнеса
-нового поколения:
-├── Custom Express server
-├── Next.js frontend
-├── Docker infrastructure
-├── Legal compliance module
-└── TypeScript-first architecture
-</pre>
-
-<b>TypeScript 99.7%</b> · Express · Next.js<br/>
-Docker · Shell
-
-</td>
-</tr>
-</table>
 
 </div>
+
+```
+Платформа нового поколения для бизнеса
+├── Custom Express server with middleware pipeline
+├── Next.js frontend with SSR/SSG
+├── Docker infrastructure (multi-container)
+├── Legal compliance module
+└── TypeScript-first architecture
+
+TypeScript 99.7% · Express · Next.js · Docker · Shell
+```
 
 ---
 
@@ -158,6 +177,8 @@ const alexey = {
 
 ### Путь развития
 
+</div>
+
 ```
 2020  ───  Первые строки HTML/CSS
   │
@@ -175,5 +196,3 @@ const alexey = {
   │
   ?   ───  Лучшее ещё впереди
 ```
-
-</div>
