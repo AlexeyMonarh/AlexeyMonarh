@@ -33,21 +33,26 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack" />
 
-<br/>
+<br/><br/>
 
-<sub><b>Языки</b> &nbsp; TypeScript &middot; JavaScript &middot; Rust &middot; Python</sub>
-
-<br/>
-
-<sub><b>Frontend</b> &nbsp; Next.js 16 &middot; React 19 &middot; Tailwind 4 &middot; Expo 55</sub>
-
-<br/>
-
-<sub><b>Backend</b> &nbsp; Express &middot; MongoDB &middot; Redis &middot; Socket.IO</sub>
-
-<br/>
-
-<sub><b>Infra</b> &nbsp; Docker &middot; Nginx &middot; Linux &middot; GitHub Actions</sub>
+<table>
+<tr>
+<td align="right" width="120"><sub><b>Языки</b></sub></td>
+<td align="left"><sub> TypeScript &nbsp;&bull;&nbsp; JavaScript &nbsp;&bull;&nbsp; Rust &nbsp;&bull;&nbsp; Python</sub></td>
+</tr>
+<tr>
+<td align="right"><sub><b>Frontend</b></sub></td>
+<td align="left"><sub> Next.js 16 &nbsp;&bull;&nbsp; React 19 &nbsp;&bull;&nbsp; Tailwind 4 &nbsp;&bull;&nbsp; Expo 55</sub></td>
+</tr>
+<tr>
+<td align="right"><sub><b>Backend</b></sub></td>
+<td align="left"><sub> Express &nbsp;&bull;&nbsp; MongoDB &nbsp;&bull;&nbsp; Redis 7 &nbsp;&bull;&nbsp; Socket.IO</sub></td>
+</tr>
+<tr>
+<td align="right"><sub><b>Infra</b></sub></td>
+<td align="left"><sub> Docker &nbsp;&bull;&nbsp; Nginx &nbsp;&bull;&nbsp; Linux &nbsp;&bull;&nbsp; GitHub Actions</sub></td>
+</tr>
+</table>
 
 </div>
 
