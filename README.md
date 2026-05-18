@@ -27,22 +27,16 @@
 
 ---
 
-<div align="center">### Технологический стек</div>
+<p align="center">### Технологический стек</p>
 
-<table width="100%"><tr><td align="center">
+<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack"/></p>
 
-<img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack"/>
-
-<br/><br/>
-
-<table>
-<tr><td align="right" width="110"><sub><b>Языки</b></sub></td><td align="left"><sub> TypeScript &nbsp;&bull;&nbsp; JavaScript &nbsp;&bull;&nbsp; Rust &nbsp;&bull;&nbsp; Python</sub></td></tr>
-<tr><td align="right"><sub><b>Frontend</b></sub></td><td align="left"><sub> Next.js 16 &nbsp;&bull;&nbsp; React 19 &nbsp;&bull;&nbsp; Tailwind 4 &nbsp;&bull;&nbsp; Expo 55</sub></td></tr>
-<tr><td align="right"><sub><b>Backend</b></sub></td><td align="left"><sub> Express &nbsp;&bull;&nbsp; MongoDB &nbsp;&bull;&nbsp; Redis 7 &nbsp;&bull;&nbsp; Socket.IO</sub></td></tr>
-<tr><td align="right"><sub><b>Infra</b></sub></td><td align="left"><sub> Docker &nbsp;&bull;&nbsp; Nginx &nbsp;&bull;&nbsp; Linux &nbsp;&bull;&nbsp; GitHub Actions</sub></td></tr>
-</table>
-
-</td></tr></table>
+<p align="center">
+<b>Языки</b> &nbsp; TypeScript &bull; JavaScript &bull; Rust &bull; Python<br/>
+<b>Frontend</b> &nbsp; Next.js 16 &bull; React 19 &bull; Tailwind 4 &bull; Expo 55<br/>
+<b>Backend</b> &nbsp; Express &bull; MongoDB &bull; Redis 7 &bull; Socket.IO<br/>
+<b>Infra</b> &nbsp; Docker &bull; Nginx &bull; Linux &bull; GitHub Actions
+</p>
 
 ---
 
