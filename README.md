@@ -3,54 +3,56 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=&fontSize=0&animation=fadeIn"/>
 
 <a href="https://github.com/AlexeyMonarh">
-<img src="https://raw.githubusercontent.com/AlexeyMonarh/AlexeyMonarh/main/img/photo.jpg" width="180" style="border-radius: 50%; border: 4px solid #1f6feb; box-shadow: 0 0 30px rgba(31,111,235,0.4); margin-bottom: 20px;"/>
+<img src="https://raw.githubusercontent.com/AlexeyMonarh/AlexeyMonarh/main/img/photo.jpg" width="260" style="border-radius: 15px; border: 3px solid #1f6feb; box-shadow: 0 0 40px rgba(31,111,235,0.4); margin-bottom: 16px;"/>
 </a>
 
 <h1>
 <code style="font-size: 2.2em; background: linear-gradient(90deg, #58a6ff, #bc8cff, #ff7b72); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-Alexey Sakhnevich
+Алексей Сахневич
 </code>
 </h1>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=AlexeyMonarh&color=1f6feb&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AlexeyMonarh&color=1f6feb&style=flat-square&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Просмотры"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-238636?style=flat-square&logo=rocket&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/СТАТУС-АКТИВНО%20РАЗРАБАТЫВАЮ-238636?style=flat-square&logo=rocket&logoColor=white" alt="Статус"/>
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20ARCHITECTURE-1f6feb?style=flat-square&logo=typescript&logoColor=white" alt="Focus"/>
+<img src="https://img.shields.io/badge/ФОКУС-FULL--STACK%20АРХИТЕКТУРА-1f6feb?style=flat-square&logo=typescript&logoColor=white" alt="Фокус"/>
 </p>
 
 <i style="color: #8b949e; font-size: 1.05em; font-weight: 300; letter-spacing: 0.5px;">
-Architecting systems that scale. Building products that matter.<br/>
-From microservices to cross-platform — engineering with purpose.
+Архитектура систем, которые масштабируются. Продукты, которые имеют значение.<br/>
+От микросервисов до кроссплатформенных решений — инженерия с целью.
 </i>
 
 </div>
 
 ---
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=AlexeyMonarh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" alt="GitHub Stats"/>
-
 ### `whoami`
 
-Full-Stack Architect & Founder at **Mizgir Technologies**. I design and build production-grade platforms — from distributed backend systems with end-to-end encryption to cross-platform apps shipping on Web, iOS, and Android simultaneously.
+Full-Stack Архитектор и Основатель **Mizgir Technologies**. Проектирую и создаю production-платформы — от распределённых бэкенд-систем со сквозным шифрованием до кроссплатформенных приложений, запускающихся одновременно на Web, iOS и Android.
 
-I don't just write code — I architect ecosystems. My latest monorepo ships **10 shared packages**, **9+ microservices**, and **3 client platforms** from a single codebase, with E2EE, real-time WebSockets, and Docker infrastructure baked in.
+Я не просто пишу код — я проектирую экосистемы. Мой последний monorepo включает **10 shared-пакетов**, **9+ микросервисов** и **3 клиентские платформы** из единой кодовой базы, с E2EE-шифрованием, real-time WebSocket и Docker-инфраструктурой.
 
 ```typescript
 const alexey = {
-  role: "Full-Stack Architect",
-  company: "Mizgir Technologies",
-  languages: ["TypeScript", "JavaScript", "Rust", "Python"],
-  stack: {
-    backend: ["Express", "Mongoose 9", "Redis 7", "BullMQ", "Socket.IO"],
-    frontend: ["Next.js 16", "React 19", "Tailwind 4", "Zustand"],
-    mobile: ["Expo 55", "React Native 0.83", "NativeWind 4"],
-    infra: ["Docker", "Nginx", "GitHub Actions", "Linux"],
+  роль: "Full-Stack Архитектор",
+  компания: "Mizgir Technologies",
+  языки: ["TypeScript", "JavaScript", "Rust", "Python"],
+  стек: {
+    бэкенд: ["Express", "Mongoose 9", "Redis 7", "BullMQ", "Socket.IO"],
+    фронтенд: ["Next.js 16", "React 19", "Tailwind 4", "Zustand"],
+    мобильная: ["Expo 55", "React Native 0.83", "NativeWind 4"],
+    инфра: ["Docker", "Nginx", "GitHub Actions", "Linux"],
   },
-  architecture: ["Microservices", "Monorepo", "E2EE", "WebSocket Real-time"],
-  principles: ["Clean Architecture", "Type Safety", "Security First"],
-  currentlyBuilding: "BP-Builder — next-gen business platform",
+  архитектура: ["Микросервисы", "Monorepo", "E2EE", "WebSocket Real-time"],
+  принципы: [
+    "Чистая архитектура",
+    "Типобезопасность",
+    "Безопасность прежде всего",
+  ],
+  сейчас_создаю: "BP-Builder — платформа нового поколения для бизнеса",
 };
 ```
 
@@ -58,7 +60,7 @@ const alexey = {
 
 <div align="center">
 
-### ARSENAL
+### АРСЕНАЛ
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -92,7 +94,7 @@ const alexey = {
 
 ---
 
-### FEATURED BUILDS
+### КЛЮЧЕВЫЕ ПРОЕКТЫ
 
 <table>
 <tr>
@@ -102,44 +104,44 @@ const alexey = {
 <div align="center">
 <img src="https://img.shields.io/badge/PRODUCTION-238636?style=flat-square&logo=checkmarx&logoColor=white" alt="Production"/>
 <img src="https://img.shields.io/badge/MONOREPO-1f6feb?style=flat-square" alt="Monorepo"/>
-<img src="https://img.shields.io/badge/E2EE-SECURED-f85149?style=flat-square&logo=shield&logoColor=white" alt="E2EE"/>
+<img src="https://img.shields.io/badge/E2EE-ЗАЩИЩЕНО-f85149?style=flat-square&logo=shield&logoColor=white" alt="E2EE"/>
 </div>
 
 ```
-Architecture:
-  ├── Backend (9+ microservices)
+Архитектура:
+  ├── Бэкенд (9+ микросервисов)
   │   ├── API Gateway — circuit breaker
-  │   ├── Auth — JWT + device mgmt
-  │   ├── KMS — end-to-end encryption
+  │   ├── Auth — JWT + устройство
+  │   ├── KMS — сквозное шифрование
   │   ├── Real-time — WebSocket
-  │   └── ...5 more services
+  │   └── ...ещё 5 сервисов
   ├── Web (Next.js 16 / React 19)
   ├── Mobile (Expo 55 / React Native)
-  └── 10 @mizgir/* shared packages
+  └── 10 @mizgir/* shared пакетов
 ```
 
-**Stack:** TypeScript 82% | Express | Mongoose 9 | Redis 7 | Socket.IO | Docker | E2EE
+**Стек:** TypeScript 82% | Express | Mongoose 9 | Redis 7 | Socket.IO | Docker | E2EE
 
 </td>
 <td width="50%">
 
 <h3 align="center">BP-Builder</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-ffa657?style=flat-square" alt="In Development"/>
+<img src="https://img.shields.io/badge/В%20РАЗРАБОТКЕ-ffa657?style=flat-square" alt="В разработке"/>
 <img src="https://img.shields.io/badge/FULL--STACK-1f6feb?style=flat-square" alt="Full-stack"/>
 <img src="https://img.shields.io/badge/ENTERPRISE-8957e5?style=flat-square" alt="Enterprise"/>
 </div>
 
 ```
-Next-generation business platform:
-  ├── Custom Express server
-  ├── Next.js frontend
-  ├── Docker infrastructure
-  ├── Legal compliance module
-  └── TypeScript-first architecture
+Платформа нового поколения для бизнеса:
+  ├── Кастомный Express-сервер
+  ├── Next.js фронтенд
+  ├── Docker инфраструктура
+  ├── Модуль правового соответствия
+  └── TypeScript-first архитектура
 ```
 
-**Stack:** TypeScript 99.7% | Express | Next.js | Docker | Shell
+**Стек:** TypeScript 99.7% | Express | Next.js | Docker | Shell
 
 </td>
 </tr>
@@ -149,11 +151,9 @@ Next-generation business platform:
 
 <div align="center">
 
-### ACTIVITY & METRICS
+### АКТИВНОСТЬ И СТАТИСТИКА
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AlexeyMonarh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyMonarh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=10" alt="Top Languages"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=AlexeyMonarh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&locale=ru" alt="Стрик GitHub"/>
 
 </div>
 
@@ -161,23 +161,23 @@ Next-generation business platform:
 
 <div align="center">
 
-### CERTIFICATIONS
+### СЕРТИФИКАТЫ
 
 <table>
 <tr>
 <td align="center" width="50%">
 <img src="https://raw.githubusercontent.com/AlexeyMonarh/AlexeyMonarh/main/img/photo_2021-11-14_23-19-26.jpg" width="85%" style="border-radius: 8px; border: 1px solid #30363d;"/>
 <br/>
-<sub><b>Yandex.Practicum — Web Developer</b></sub>
+<sub><b>Яндекс.Практикум — Веб-разработчик</b></sub>
 <br/>
-<sub style="color: #8b949e;">Full-Stack JavaScript Diploma</sub>
+<sub style="color: #8b949e;">Диплом Full-Stack JavaScript</sub>
 </td>
 <td align="center" width="50%">
 <img src="https://raw.githubusercontent.com/AlexeyMonarh/AlexeyMonarh/main/img/photo_2021-11-14_23-19-32.jpg" width="85%" style="border-radius: 8px; border: 1px solid #30363d;"/>
 <br/>
-<sub><b>Yandex.Practicum — Web Developer</b></sub>
+<sub><b>Яндекс.Практикум — Веб-разработчик</b></sub>
 <br/>
-<sub style="color: #8b949e;">Full-Stack JavaScript Diploma</sub>
+<sub style="color: #8b949e;">Диплом Full-Stack JavaScript</sub>
 </td>
 </tr>
 </table>
@@ -188,24 +188,24 @@ Next-generation business platform:
 
 <div align="center">
 
-### EVOLUTION
+### ПУТЬ РАЗВИТИЯ
 
 ```
-2020 ──── First lines of HTML/CSS ──── The spark
+2020 ──── Первые строки HTML/CSS ──── Искра
   │
-2021 ──── Yandex.Practicum ──── Formal training, first full-stack apps
+2021 ──── Яндекс.Практикум ──── Формальное обучение, первые full-stack приложения
   │
-2022 ──── React SPAs, Node.js backends ──── Freelance era
+2022 ──── React SPA, Node.js бэкенды ──── Эра фриланса
   │
-2023 ──── MonarhWebStudio ──── Building for clients
+2023 ──── MonarhWebStudio ──── Создание для клиентов
   │
-2024 ──── React Native, mobile development ──── Going cross-platform
+2024 ──── React Native, мобильная разработка ──── Кроссплатформенность
   │
-2025 ──── Mizgir Technologies ──── Microservices, monorepo, E2EE architecture
+2025 ──── Mizgir Technologies ──── Микросервисы, monorepo, E2EE архитектура
   │
-2026 ──── BP-Builder + Next.js 16 + Expo 55 ──── Enterprise-grade platforms
+2026 ──── BP-Builder + Next.js 16 + Expo 55 ──── Платформы enterprise-уровня
   │
-  ? ──── What's next? ──── The best is yet to come
+  ? ──── Что дальше? ──── Лучшее ещё впереди
 ```
 
 </div>
@@ -214,7 +214,7 @@ Next-generation business platform:
 
 <div align="center">
 
-### CONNECT
+### СВЯЗЬ
 
 <a href="mailto:monarhweb@gmail.com">
 <img src="https://img.shields.io/badge/Email-monarhweb@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -229,9 +229,9 @@ Next-generation business platform:
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AlexeyMonarh&color=1f6feb&style=flat-square&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=AlexeyMonarh&color=1f6feb&style=flat-square&label=ПОСЕТИТЕЛИ"/>
 &nbsp;
-<sub style="color: #484f58;">Built with passion, shipped with precision.</sub>
+<sub style="color: #484f58;">Создано с страстью, поставлено с точностью.</sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
