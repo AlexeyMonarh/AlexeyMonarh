@@ -27,7 +27,7 @@
 
 ---
 
-<p align="center">### Технологический стек</p>
+<h3 align="center">Технологический стек</h3>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack"/></p>
 
