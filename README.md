@@ -26,14 +26,14 @@
 </div>
 
 ---
-<div style="text-align: center;">
+<div align="center">
   <h3>Технологический стек</h3>
   
-  <div style="display: inline-block;">
+  <center>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://githubusercontent.com">
-      <img src="https://githubusercontent.com" alt="Tech Stack" data-canonical-src="https://skillicons.dev" style="max-width: 100%;">
+      <img src="https://githubusercontent.com" alt="Tech Stack" data-canonical-src="https://skillicons.dev" width="100%">
     </a>
-  </div>
+  </center>
 
   <p>
     <b>Языки</b> &nbsp; TypeScript • JavaScript • Rust • Python<br>
@@ -42,8 +42,6 @@
     <b>Infra</b> &nbsp; Docker • Nginx • Linux • GitHub Actions
   </p>
 </div>
-
-
 
 <div align="center">
   
