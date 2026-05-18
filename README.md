@@ -42,14 +42,12 @@
 
 
 </div>
+
+<div align="center">
 ---
 
 
 ### Ключевые проекты
-
-
-
-<div align="center">
 
 <h3>Mizgir Platform</h3>
 
