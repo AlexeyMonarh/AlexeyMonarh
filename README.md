@@ -41,77 +41,63 @@
 
 ### Ключевые проекты
 
-</div>
-
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>Mizgir Platform</h3>
-
+<p>
 <img src="https://img.shields.io/badge/PRODUCTION-238636?style=flat-square" alt="Production"/>
 <img src="https://img.shields.io/badge/MONOREPO-1f6feb?style=flat-square" alt="Monorepo"/>
 <img src="https://img.shields.io/badge/E2EE-f85149?style=flat-square" alt="E2EE"/>
+</p>
 
-<br/><br/>
+<pre>
+Backend (9+ микросервисов)
+├── API Gateway — circuit breaker
+├── Auth — JWT + device mgmt
+├── KMS — end-to-end encryption
+├── Real-time — WebSocket
+└── ...5 more services
 
-```
-  Backend (9+ микросервисов)
-  ├── API Gateway — circuit breaker
-  ├── Auth — JWT + device mgmt
-  ├── KMS — end-to-end encryption
-  ├── Real-time — WebSocket
-  └── ...5 more services
+Web    (Next.js 16 / React 19)
+Mobile (Expo 55 / React Native)
+10 shared @mizgir/* packages
+</pre>
 
-  Web   (Next.js 16 / React 19)
-  Mobile (Expo 55 / React Native)
-  10 shared @mizgir/* packages
-```
-
-**TypeScript 82%** &middot; Express &middot; Mongoose 9 &middot; Redis 7
-<br/>
-Socket.IO &middot; Docker &middot; E2EE
-
-</div>
+<b>TypeScript 82%</b> · Express · Mongoose 9 · Redis 7<br/>
+Socket.IO · Docker · E2EE
 
 </td>
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>BP-Builder</h3>
-
+<p>
 <img src="https://img.shields.io/badge/IN_DEV-ffa657?style=flat-square" alt="In Development"/>
 <img src="https://img.shields.io/badge/FULLSTACK-1f6feb?style=flat-square" alt="Fullstack"/>
 <img src="https://img.shields.io/badge/ENTERPRISE-8957e5?style=flat-square" alt="Enterprise"/>
+</p>
 
-<br/><br/>
+<pre>
+Платформа для бизнеса
+нового поколения:
+├── Custom Express server
+├── Next.js frontend
+├── Docker infrastructure
+├── Legal compliance module
+└── TypeScript-first architecture
+</pre>
 
-```
-  Платформа для бизнеса
-  нового поколения:
-  ├── Custom Express server
-  ├── Next.js frontend
-  ├── Docker infrastructure
-  ├── Legal compliance module
-  └── TypeScript-first architecture
-```
-
-**TypeScript 99.7%** &middot; Express &middot; Next.js
-<br/>
-Docker &middot; Shell
-
-</div>
+<b>TypeScript 99.7%</b> · Express · Next.js<br/>
+Docker · Shell
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-<div align="center">
+---
 
 ```typescript
 const alexey = {
@@ -128,8 +114,6 @@ const alexey = {
   building: "BP-Builder — next-gen business platform",
 };
 ```
-
-</div>
 
 ---
 
