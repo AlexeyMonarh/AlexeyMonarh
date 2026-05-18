@@ -27,7 +27,7 @@
 
 ---
 
-<center align="center">
+
 
 ### Технологический стек
 
@@ -40,14 +40,14 @@
 <b>Backend</b> &nbsp; Express &bull; MongoDB &bull; Redis 7 &bull; Socket.IO<br/>
 <b>Infra</b> &nbsp; Docker &bull; Nginx &bull; Linux &bull; GitHub Actions
 
-</center>
+
 
 ---
 
 
 ### Ключевые проекты
 
-</center>
+
 
 <div align="center">
 
