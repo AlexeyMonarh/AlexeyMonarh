@@ -27,24 +27,28 @@
 
 ---
 
-<h3 align="center">Технологический стек</h3>
+<center>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack"/></p>
+### Технологический стек
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,rust,python,nextjs,react,tailwindcss,expo,express,mongodb,redis,docker,nginx,linux,githubactions&perline=8" alt="Tech Stack"/>
+
+<br/>
+
 <b>Языки</b> &nbsp; TypeScript &bull; JavaScript &bull; Rust &bull; Python<br/>
 <b>Frontend</b> &nbsp; Next.js 16 &bull; React 19 &bull; Tailwind 4 &bull; Expo 55<br/>
 <b>Backend</b> &nbsp; Express &bull; MongoDB &bull; Redis 7 &bull; Socket.IO<br/>
 <b>Infra</b> &nbsp; Docker &bull; Nginx &bull; Linux &bull; GitHub Actions
-</p>
+
+</center>
 
 ---
 
-<div align="center">
+<center>
 
 ### Ключевые проекты
 
-</div>
+</center>
 
 <div align="center">
 
